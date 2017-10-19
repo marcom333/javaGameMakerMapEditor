@@ -8,6 +8,8 @@ import java.awt.Image;
 import java.awt.image.BufferedImage;
 import java.util.ArrayList;
 // esto es un comentario solo decia LOLOLOLOLOLOOOOL
+// otro comentario xD
+
 
 import javax.swing.ImageIcon;
 import javax.swing.JLabel;
